@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "VaU+W/6HBITHhvDteHu+VD2Kl/GrJD7E0oskXJbKL6K79qrUPgiN6gP+CePh/+fU5DdlL+mNEx2r73dxeUlsVw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Rasmus\\source\\repos\\ImperialUnitsConverter\\ImperialUnitsConverter\\ImperialUnitsConverter.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Rasmus\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\6.0.0\\microsoft.extensions.dependencyinjection.6.0.0.nupkg.sha512",
+    "C:\\Users\\Rasmus\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\Rasmus\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.1\\microsoft.extensions.logging.abstractions.6.0.1.nupkg.sha512",
+    "C:\\Users\\Rasmus\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
+    "C:\\Users\\Rasmus\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\Rasmus\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\Rasmus\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.20\\microsoft.netcore.app.host.win-x64.3.1.20.nupkg.sha512"
+  ],
+  "logs": []
+}
